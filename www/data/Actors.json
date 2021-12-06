@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"heroi","characterIndex":0,"characterName":"heroi","classId":1,"equips":[1,0,2,3,0],"faceIndex":0,"faceName":"heroi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kizua","nickname":"Guerreiro","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"irmão","classId":2,"equips":[5,1,0,6,0],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1},{"code":52,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Kieza","nickname":"Irmão de Kizua","note":"","profile":""},
+{"id":3,"battlerName":"woman","characterIndex":0,"characterName":"woman1","classId":4,"equips":[3,0,2,6,0],"faceIndex":0,"faceName":"woman","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helena","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"nogueira","characterIndex":4,"characterName":"People1","classId":5,"equips":[6,0,5,6,0],"faceIndex":4,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nogueira","nickname":"O capitão","note":"","profile":""}
+]
